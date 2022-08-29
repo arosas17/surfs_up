@@ -1,7 +1,8 @@
 # surfs_up
 
 ## Overview 
-Explain the purpose of this analysis.
+
+A plan is currently underway to open a Surf n' Shake shop in Oahu, Hawaii. At the moment, a weather analysis of the area needs to be performed. To ensure that the shop has the best chance to succeed, a weather analysis will need to performed on the area to decide if the locations is appropriate and at what time of year the shop should open. The weather analysis performs focused on precipitation and temperatures. The temperature information of June and December are displayed in tables with the mean, median, minimum temperature, and maximum temperature. To further the analysis, a few additional graphs were added to give a more visual representation of the temperatures and precipitation.
 
 ## Results 
 bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
