@@ -19,3 +19,10 @@ This minimum temperature of December, at 56, is much lower than than June tempur
 ## Summary 
 
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+
+
+<img src= "https://github.com/arosas17/surfs_up/blob/main/Images/ave_temp_JanFeb.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="2000" height="250" />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src= "https://github.com/arosas17/surfs_up/blob/main/Images/ave_temp_year.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="800" height="250" />
+
+<img src= "https://github.com/arosas17/surfs_up/blob/main/Images/ave_prec_year.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="1500" height="250" />
