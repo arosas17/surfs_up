@@ -5,8 +5,6 @@
 A plan is currently underway to open a Surf n' Shake shop in Oahu, Hawaii. At the moment, a weather analysis of the area needs to be performed. To ensure that the shop has the best chance to succeed, a weather analysis will need to performed on the area to decide if the locations is appropriate and at what time of year the shop should open. The weather analysis performs focused on precipitation and temperatures. The temperature information of June and December are displayed in tables with the mean, median, minimum temperature, and maximum temperature. To further the analysis, a few additional graphs were added to give a more visual representation of the temperatures and precipitation.
 
 ## Results 
-bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-
 
 ### June Summary   &emsp;&emsp;&nbsp;&nbsp;    December summary
 ![June_summary.png](/Images/June_summary.png) &emsp;&emsp;&emsp;&emsp;![Dec_summary.png](/Images/Dec_summary.png)
@@ -18,19 +16,12 @@ bulleted list with three major points from the two analysis deliverables. Use im
 These numbers would suggest that the weather is mostly similar between these two times of the year. Although the minimum temperatures would suggest that the months in December will be more prone to cold weather. This could lead to less profits in December, but with the mean temperature being 71, it would suggest that there are only a few colder days similar to that.
 
 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src= "https://github.com/arosas17/surfs_up/blob/main/Images/ave_temp_june_vs_dec.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="825" height="250" />
 
+<img src= "https://github.com/arosas17/surfs_up/blob/main/Images/precipitation_june_vs_dec.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="2000" height="250" />
 
-
+In addition to the tables, two graphs have been added containing the averages of temperatures and precipitation and how they compare between June and December. The temperature graph visually shows that the temperatures remain consistent throughout these years, with December generally being slightly cooler than in June. However, another important analysis of this graph demonstrates that the colder days that occur do not tend to last. In December 2014, around the 27th, there has been a unusual drop of temperature, but seemed to have recovered, suggesting that temperature would be an outlier in regards to the rest of the data. The precipitation graph shows that, generally the rain seems to be light. There seems to be some heavier rains from 2010 to 2011, but considerably less in other years. Also, as a general observation, it seems that it rains more in December than in June. These increases in precipitations can also be part of the reason December is typically colder than June in Oahu.
 
 ## Summary 
 
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-
-
-
-
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src= "https://github.com/arosas17/surfs_up/blob/main/Images/ave_temp_june_vs_dec.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="825" height="250" />
-
-
-<img src= "https://github.com/arosas17/surfs_up/blob/main/Images/precipitation_june_vs_dec.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="2000" height="250" />
+Open shop in June
