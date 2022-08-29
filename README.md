@@ -11,9 +11,14 @@ bulleted list with three major points from the two analysis deliverables. Use im
 ### June Summary   &emsp;&emsp;&nbsp;&nbsp;    December summary
 ![June_summary.png](/Images/June_summary.png) &emsp;&emsp;&emsp;&emsp;![Dec_summary.png](/Images/Dec_summary.png)
 
-Despite being six months apart, the avarage tempuratures of both June and December in ...  are in the 70's.
-The max temperatures are are very similar as well, around the mid 80's.
-This minimum temperature of December, at 56, is much lower than than June tempurature at 64.
+* Despite being six months apart, the avarage tempuratures of both June and December in Oahu are in the 70's.
+* The max temperatures between the two are very similar as well, around the mid 80's.
+* This minimum temperature of December, at 56, is much lower than than June tempurature at 64.
+
+These numbers would suggest that the weather is mostly similar between these two times of the year. Although the minimum temperatures would suggest that the months in December will be more prone to cold weather. This could lead to less profits in December, but with the mean temperature being 71, it would suggest that there are only a few colder days similar to that.
+
+
+
 
 
 
