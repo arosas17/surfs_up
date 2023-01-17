@@ -6,7 +6,7 @@ A plan is currently underway to open a Surf n' Shake shop in Oahu, Hawaii. At th
 
 ## Results 
 
-### June Summary   &emsp;&emsp;&nbsp;&nbsp;    December summary
+### June Summary   &emsp;&emsp;&nbsp;&nbsp;    December Summary
 ![June_summary.png](/Images/June_summary.png) &emsp;&emsp;&emsp;&emsp;![Dec_summary.png](/Images/Dec_summary.png)
 
 * Despite being six months apart, the avarage tempuratures of both June and December in Oahu are in the 70's.
