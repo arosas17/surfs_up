@@ -1,5 +1,8 @@
 # surfs_up
 
+## Goal and Findings
+Need to determine if it is acceptable to open a Surf n' Shake shop in Oahu, Hawaii based on weather data, and if so, at what time of the year. In terms of precipitation and temperature, there is not much significant difference between June and December but few outlier occur in December making June more favorable.
+
 ## Overview 
 
 A plan is currently underway to open a Surf n' Shake shop in Oahu, Hawaii. At the moment, a weather analysis of the area needs to be performed. To ensure that the shop has the best chance to succeed, a weather analysis will need to performed on the area to decide if the locations is appropriate and at what time of year the shop should open. The weather analysis performs focused on precipitation and temperatures. The temperature information of June and December are displayed in tables with the mean, median, minimum temperature, and maximum temperature. To further the analysis, a few additional graphs were added to give a more visual representation of the temperatures and precipitation.
